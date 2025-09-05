@@ -1,0 +1,505 @@
+Teacher_Name,Day,Subject,Time_Slot,Department
+Amit Sharma,Monday,Data Structures,9:00-10:00,IT
+Amit Sharma,Monday,Database Management,10:00-11:00,IT
+Amit Sharma,Monday,Networking,11:00-12:00,IT
+Amit Sharma,Monday,Software Engineering,12:00-1:00,IT
+Amit Sharma,Monday,Operating Systems,2:00-3:00,IT
+Amit Sharma,Monday,Cloud Computing,3:00-4:00,IT
+Amit Sharma,Tuesday,Data Structures,9:00-10:00,IT
+Amit Sharma,Tuesday,Database Management,10:00-11:00,IT
+Amit Sharma,Tuesday,Networking,11:00-12:00,IT
+Amit Sharma,Tuesday,Software Engineering,12:00-1:00,IT
+Amit Sharma,Tuesday,Operating Systems,2:00-3:00,IT
+Amit Sharma,Tuesday,Cloud Computing,3:00-4:00,IT
+Amit Sharma,Wednesday,Data Structures,9:00-10:00,IT
+Amit Sharma,Wednesday,Database Management,10:00-11:00,IT
+Amit Sharma,Wednesday,Networking,11:00-12:00,IT
+Amit Sharma,Wednesday,Software Engineering,12:00-1:00,IT
+Amit Sharma,Wednesday,Operating Systems,2:00-3:00,IT
+Amit Sharma,Wednesday,Cloud Computing,3:00-4:00,IT
+Amit Sharma,Thursday,Data Structures,9:00-10:00,IT
+Amit Sharma,Thursday,Database Management,10:00-11:00,IT
+Amit Sharma,Thursday,Networking,11:00-12:00,IT
+Amit Sharma,Thursday,Software Engineering,12:00-1:00,IT
+Amit Sharma,Thursday,Operating Systems,2:00-3:00,IT
+Amit Sharma,Thursday,Cloud Computing,3:00-4:00,IT
+Amit Sharma,Friday,Data Structures,9:00-10:00,IT
+Amit Sharma,Friday,Database Management,10:00-11:00,IT
+Amit Sharma,Friday,Networking,11:00-12:00,IT
+Amit Sharma,Friday,Software Engineering,12:00-1:00,IT
+Amit Sharma,Friday,Operating Systems,2:00-3:00,IT
+Amit Sharma,Friday,Cloud Computing,3:00-4:00,IT
+Amit Sharma,Saturday,Data Structures,9:00-10:00,IT
+Amit Sharma,Saturday,Database Management,10:00-11:00,IT
+Amit Sharma,Saturday,Networking,11:00-12:00,IT
+Amit Sharma,Saturday,Software Engineering,12:00-1:00,IT
+Amit Sharma,Saturday,Operating Systems,2:00-3:00,IT
+Amit Sharma,Saturday,Cloud Computing,3:00-4:00,IT
+Pooja Singh,Monday,Data Structures,9:00-10:00,IT
+Pooja Singh,Monday,Database Management,10:00-11:00,IT
+Pooja Singh,Monday,Networking,11:00-12:00,IT
+Pooja Singh,Monday,Software Engineering,12:00-1:00,IT
+Pooja Singh,Monday,Operating Systems,2:00-3:00,IT
+Pooja Singh,Monday,Cloud Computing,3:00-4:00,IT
+Pooja Singh,Tuesday,Data Structures,9:00-10:00,IT
+Pooja Singh,Tuesday,Database Management,10:00-11:00,IT
+Pooja Singh,Tuesday,Networking,11:00-12:00,IT
+Pooja Singh,Tuesday,Software Engineering,12:00-1:00,IT
+Pooja Singh,Tuesday,Operating Systems,2:00-3:00,IT
+Pooja Singh,Tuesday,Cloud Computing,3:00-4:00,IT
+Pooja Singh,Wednesday,Data Structures,9:00-10:00,IT
+Pooja Singh,Wednesday,Database Management,10:00-11:00,IT
+Pooja Singh,Wednesday,Networking,11:00-12:00,IT
+Pooja Singh,Wednesday,Software Engineering,12:00-1:00,IT
+Pooja Singh,Wednesday,Operating Systems,2:00-3:00,IT
+Pooja Singh,Wednesday,Cloud Computing,3:00-4:00,IT
+Pooja Singh,Thursday,Data Structures,9:00-10:00,IT
+Pooja Singh,Thursday,Database Management,10:00-11:00,IT
+Pooja Singh,Thursday,Networking,11:00-12:00,IT
+Pooja Singh,Thursday,Software Engineering,12:00-1:00,IT
+Pooja Singh,Thursday,Operating Systems,2:00-3:00,IT
+Pooja Singh,Thursday,Cloud Computing,3:00-4:00,IT
+Pooja Singh,Friday,Data Structures,9:00-10:00,IT
+Pooja Singh,Friday,Database Management,10:00-11:00,IT
+Pooja Singh,Friday,Networking,11:00-12:00,IT
+Pooja Singh,Friday,Software Engineering,12:00-1:00,IT
+Pooja Singh,Friday,Operating Systems,2:00-3:00,IT
+Pooja Singh,Friday,Cloud Computing,3:00-4:00,IT
+Pooja Singh,Saturday,Data Structures,9:00-10:00,IT
+Pooja Singh,Saturday,Database Management,10:00-11:00,IT
+Pooja Singh,Saturday,Networking,11:00-12:00,IT
+Pooja Singh,Saturday,Software Engineering,12:00-1:00,IT
+Pooja Singh,Saturday,Operating Systems,2:00-3:00,IT
+Pooja Singh,Saturday,Cloud Computing,3:00-4:00,IT
+Rahul Mehta,Monday,Data Structures,9:00-10:00,IT
+Rahul Mehta,Monday,Database Management,10:00-11:00,IT
+Rahul Mehta,Monday,Networking,11:00-12:00,IT
+Rahul Mehta,Monday,Software Engineering,12:00-1:00,IT
+Rahul Mehta,Monday,Operating Systems,2:00-3:00,IT
+Rahul Mehta,Monday,Cloud Computing,3:00-4:00,IT
+Rahul Mehta,Tuesday,Data Structures,9:00-10:00,IT
+Rahul Mehta,Tuesday,Database Management,10:00-11:00,IT
+Rahul Mehta,Tuesday,Networking,11:00-12:00,IT
+Rahul Mehta,Tuesday,Software Engineering,12:00-1:00,IT
+Rahul Mehta,Tuesday,Operating Systems,2:00-3:00,IT
+Rahul Mehta,Tuesday,Cloud Computing,3:00-4:00,IT
+Rahul Mehta,Wednesday,Data Structures,9:00-10:00,IT
+Rahul Mehta,Wednesday,Database Management,10:00-11:00,IT
+Rahul Mehta,Wednesday,Networking,11:00-12:00,IT
+Rahul Mehta,Wednesday,Software Engineering,12:00-1:00,IT
+Rahul Mehta,Wednesday,Operating Systems,2:00-3:00,IT
+Rahul Mehta,Wednesday,Cloud Computing,3:00-4:00,IT
+Rahul Mehta,Thursday,Data Structures,9:00-10:00,IT
+Rahul Mehta,Thursday,Database Management,10:00-11:00,IT
+Rahul Mehta,Thursday,Networking,11:00-12:00,IT
+Rahul Mehta,Thursday,Software Engineering,12:00-1:00,IT
+Rahul Mehta,Thursday,Operating Systems,2:00-3:00,IT
+Rahul Mehta,Thursday,Cloud Computing,3:00-4:00,IT
+Rahul Mehta,Friday,Data Structures,9:00-10:00,IT
+Rahul Mehta,Friday,Database Management,10:00-11:00,IT
+Rahul Mehta,Friday,Networking,11:00-12:00,IT
+Rahul Mehta,Friday,Software Engineering,12:00-1:00,IT
+Rahul Mehta,Friday,Operating Systems,2:00-3:00,IT
+Rahul Mehta,Friday,Cloud Computing,3:00-4:00,IT
+Rahul Mehta,Saturday,Data Structures,9:00-10:00,IT
+Rahul Mehta,Saturday,Database Management,10:00-11:00,IT
+Rahul Mehta,Saturday,Networking,11:00-12:00,IT
+Rahul Mehta,Saturday,Software Engineering,12:00-1:00,IT
+Rahul Mehta,Saturday,Operating Systems,2:00-3:00,IT
+Rahul Mehta,Saturday,Cloud Computing,3:00-4:00,IT
+Sunita Yadav,Monday,Data Structures,9:00-10:00,IT
+Sunita Yadav,Monday,Database Management,10:00-11:00,IT
+Sunita Yadav,Monday,Networking,11:00-12:00,IT
+Sunita Yadav,Monday,Software Engineering,12:00-1:00,IT
+Sunita Yadav,Monday,Operating Systems,2:00-3:00,IT
+Sunita Yadav,Monday,Cloud Computing,3:00-4:00,IT
+Sunita Yadav,Tuesday,Data Structures,9:00-10:00,IT
+Sunita Yadav,Tuesday,Database Management,10:00-11:00,IT
+Sunita Yadav,Tuesday,Networking,11:00-12:00,IT
+Sunita Yadav,Tuesday,Software Engineering,12:00-1:00,IT
+Sunita Yadav,Tuesday,Operating Systems,2:00-3:00,IT
+Sunita Yadav,Tuesday,Cloud Computing,3:00-4:00,IT
+Sunita Yadav,Wednesday,Data Structures,9:00-10:00,IT
+Sunita Yadav,Wednesday,Database Management,10:00-11:00,IT
+Sunita Yadav,Wednesday,Networking,11:00-12:00,IT
+Sunita Yadav,Wednesday,Software Engineering,12:00-1:00,IT
+Sunita Yadav,Wednesday,Operating Systems,2:00-3:00,IT
+Sunita Yadav,Wednesday,Cloud Computing,3:00-4:00,IT
+Sunita Yadav,Thursday,Data Structures,9:00-10:00,IT
+Sunita Yadav,Thursday,Database Management,10:00-11:00,IT
+Sunita Yadav,Thursday,Networking,11:00-12:00,IT
+Sunita Yadav,Thursday,Software Engineering,12:00-1:00,IT
+Sunita Yadav,Thursday,Operating Systems,2:00-3:00,IT
+Sunita Yadav,Thursday,Cloud Computing,3:00-4:00,IT
+Sunita Yadav,Friday,Data Structures,9:00-10:00,IT
+Sunita Yadav,Friday,Database Management,10:00-11:00,IT
+Sunita Yadav,Friday,Networking,11:00-12:00,IT
+Sunita Yadav,Friday,Software Engineering,12:00-1:00,IT
+Sunita Yadav,Friday,Operating Systems,2:00-3:00,IT
+Sunita Yadav,Friday,Cloud Computing,3:00-4:00,IT
+Sunita Yadav,Saturday,Data Structures,9:00-10:00,IT
+Sunita Yadav,Saturday,Database Management,10:00-11:00,IT
+Sunita Yadav,Saturday,Networking,11:00-12:00,IT
+Sunita Yadav,Saturday,Software Engineering,12:00-1:00,IT
+Sunita Yadav,Saturday,Operating Systems,2:00-3:00,IT
+Sunita Yadav,Saturday,Cloud Computing,3:00-4:00,IT
+Karan Patel,Monday,Data Structures,9:00-10:00,IT
+Karan Patel,Monday,Database Management,10:00-11:00,IT
+Karan Patel,Monday,Networking,11:00-12:00,IT
+Karan Patel,Monday,Software Engineering,12:00-1:00,IT
+Karan Patel,Monday,Operating Systems,2:00-3:00,IT
+Karan Patel,Monday,Cloud Computing,3:00-4:00,IT
+Karan Patel,Tuesday,Data Structures,9:00-10:00,IT
+Karan Patel,Tuesday,Database Management,10:00-11:00,IT
+Karan Patel,Tuesday,Networking,11:00-12:00,IT
+Karan Patel,Tuesday,Software Engineering,12:00-1:00,IT
+Karan Patel,Tuesday,Operating Systems,2:00-3:00,IT
+Karan Patel,Tuesday,Cloud Computing,3:00-4:00,IT
+Karan Patel,Wednesday,Data Structures,9:00-10:00,IT
+Karan Patel,Wednesday,Database Management,10:00-11:00,IT
+Karan Patel,Wednesday,Networking,11:00-12:00,IT
+Karan Patel,Wednesday,Software Engineering,12:00-1:00,IT
+Karan Patel,Wednesday,Operating Systems,2:00-3:00,IT
+Karan Patel,Wednesday,Cloud Computing,3:00-4:00,IT
+Karan Patel,Thursday,Data Structures,9:00-10:00,IT
+Karan Patel,Thursday,Database Management,10:00-11:00,IT
+Karan Patel,Thursday,Networking,11:00-12:00,IT
+Karan Patel,Thursday,Software Engineering,12:00-1:00,IT
+Karan Patel,Thursday,Operating Systems,2:00-3:00,IT
+Karan Patel,Thursday,Cloud Computing,3:00-4:00,IT
+Karan Patel,Friday,Data Structures,9:00-10:00,IT
+Karan Patel,Friday,Database Management,10:00-11:00,IT
+Karan Patel,Friday,Networking,11:00-12:00,IT
+Karan Patel,Friday,Software Engineering,12:00-1:00,IT
+Karan Patel,Friday,Operating Systems,2:00-3:00,IT
+Karan Patel,Friday,Cloud Computing,3:00-4:00,IT
+Karan Patel,Saturday,Data Structures,9:00-10:00,IT
+Karan Patel,Saturday,Database Management,10:00-11:00,IT
+Karan Patel,Saturday,Networking,11:00-12:00,IT
+Karan Patel,Saturday,Software Engineering,12:00-1:00,IT
+Karan Patel,Saturday,Operating Systems,2:00-3:00,IT
+Karan Patel,Saturday,Cloud Computing,3:00-4:00,IT
+Meena Das,Monday,Data Structures,9:00-10:00,IT
+Meena Das,Monday,Database Management,10:00-11:00,IT
+Meena Das,Monday,Networking,11:00-12:00,IT
+Meena Das,Monday,Software Engineering,12:00-1:00,IT
+Meena Das,Monday,Operating Systems,2:00-3:00,IT
+Meena Das,Monday,Cloud Computing,3:00-4:00,IT
+Meena Das,Tuesday,Data Structures,9:00-10:00,IT
+Meena Das,Tuesday,Database Management,10:00-11:00,IT
+Meena Das,Tuesday,Networking,11:00-12:00,IT
+Meena Das,Tuesday,Software Engineering,12:00-1:00,IT
+Meena Das,Tuesday,Operating Systems,2:00-3:00,IT
+Meena Das,Tuesday,Cloud Computing,3:00-4:00,IT
+Meena Das,Wednesday,Data Structures,9:00-10:00,IT
+Meena Das,Wednesday,Database Management,10:00-11:00,IT
+Meena Das,Wednesday,Networking,11:00-12:00,IT
+Meena Das,Wednesday,Software Engineering,12:00-1:00,IT
+Meena Das,Wednesday,Operating Systems,2:00-3:00,IT
+Meena Das,Wednesday,Cloud Computing,3:00-4:00,IT
+Meena Das,Thursday,Data Structures,9:00-10:00,IT
+Meena Das,Thursday,Database Management,10:00-11:00,IT
+Meena Das,Thursday,Networking,11:00-12:00,IT
+Meena Das,Thursday,Software Engineering,12:00-1:00,IT
+Meena Das,Thursday,Operating Systems,2:00-3:00,IT
+Meena Das,Thursday,Cloud Computing,3:00-4:00,IT
+Meena Das,Friday,Data Structures,9:00-10:00,IT
+Meena Das,Friday,Database Management,10:00-11:00,IT
+Meena Das,Friday,Networking,11:00-12:00,IT
+Meena Das,Friday,Software Engineering,12:00-1:00,IT
+Meena Das,Friday,Operating Systems,2:00-3:00,IT
+Meena Das,Friday,Cloud Computing,3:00-4:00,IT
+Meena Das,Saturday,Data Structures,9:00-10:00,IT
+Meena Das,Saturday,Database Management,10:00-11:00,IT
+Meena Das,Saturday,Networking,11:00-12:00,IT
+Meena Das,Saturday,Software Engineering,12:00-1:00,IT
+Meena Das,Saturday,Operating Systems,2:00-3:00,IT
+Meena Das,Saturday,Cloud Computing,3:00-4:00,IT
+Ravi Verma,Monday,Data Structures,9:00-10:00,IT
+Ravi Verma,Monday,Database Management,10:00-11:00,IT
+Ravi Verma,Monday,Networking,11:00-12:00,IT
+Ravi Verma,Monday,Software Engineering,12:00-1:00,IT
+Ravi Verma,Monday,Operating Systems,2:00-3:00,IT
+Ravi Verma,Monday,Cloud Computing,3:00-4:00,IT
+Ravi Verma,Tuesday,Data Structures,9:00-10:00,IT
+Ravi Verma,Tuesday,Database Management,10:00-11:00,IT
+Ravi Verma,Tuesday,Networking,11:00-12:00,IT
+Ravi Verma,Tuesday,Software Engineering,12:00-1:00,IT
+Ravi Verma,Tuesday,Operating Systems,2:00-3:00,IT
+Ravi Verma,Tuesday,Cloud Computing,3:00-4:00,IT
+Ravi Verma,Wednesday,Data Structures,9:00-10:00,IT
+Ravi Verma,Wednesday,Database Management,10:00-11:00,IT
+Ravi Verma,Wednesday,Networking,11:00-12:00,IT
+Ravi Verma,Wednesday,Software Engineering,12:00-1:00,IT
+Ravi Verma,Wednesday,Operating Systems,2:00-3:00,IT
+Ravi Verma,Wednesday,Cloud Computing,3:00-4:00,IT
+Ravi Verma,Thursday,Data Structures,9:00-10:00,IT
+Ravi Verma,Thursday,Database Management,10:00-11:00,IT
+Ravi Verma,Thursday,Networking,11:00-12:00,IT
+Ravi Verma,Thursday,Software Engineering,12:00-1:00,IT
+Ravi Verma,Thursday,Operating Systems,2:00-3:00,IT
+Ravi Verma,Thursday,Cloud Computing,3:00-4:00,IT
+Ravi Verma,Friday,Data Structures,9:00-10:00,IT
+Ravi Verma,Friday,Database Management,10:00-11:00,IT
+Ravi Verma,Friday,Networking,11:00-12:00,IT
+Ravi Verma,Friday,Software Engineering,12:00-1:00,IT
+Ravi Verma,Friday,Operating Systems,2:00-3:00,IT
+Ravi Verma,Friday,Cloud Computing,3:00-4:00,IT
+Ravi Verma,Saturday,Data Structures,9:00-10:00,IT
+Ravi Verma,Saturday,Database Management,10:00-11:00,IT
+Ravi Verma,Saturday,Networking,11:00-12:00,IT
+Ravi Verma,Saturday,Software Engineering,12:00-1:00,IT
+Ravi Verma,Saturday,Operating Systems,2:00-3:00,IT
+Ravi Verma,Saturday,Cloud Computing,3:00-4:00,IT
+Amit Sharma,Monday,Algorithms,9:00-10:00,CS
+Amit Sharma,Monday,Artificial Intelligence,10:00-11:00,CS
+Amit Sharma,Monday,Machine Learning,11:00-12:00,CS
+Amit Sharma,Monday,Cyber Security,12:00-1:00,CS
+Amit Sharma,Monday,Computer Graphics,2:00-3:00,CS
+Amit Sharma,Monday,Web Development,3:00-4:00,CS
+Amit Sharma,Tuesday,Algorithms,9:00-10:00,CS
+Amit Sharma,Tuesday,Artificial Intelligence,10:00-11:00,CS
+Amit Sharma,Tuesday,Machine Learning,11:00-12:00,CS
+Amit Sharma,Tuesday,Cyber Security,12:00-1:00,CS
+Amit Sharma,Tuesday,Computer Graphics,2:00-3:00,CS
+Amit Sharma,Tuesday,Web Development,3:00-4:00,CS
+Amit Sharma,Wednesday,Algorithms,9:00-10:00,CS
+Amit Sharma,Wednesday,Artificial Intelligence,10:00-11:00,CS
+Amit Sharma,Wednesday,Machine Learning,11:00-12:00,CS
+Amit Sharma,Wednesday,Cyber Security,12:00-1:00,CS
+Amit Sharma,Wednesday,Computer Graphics,2:00-3:00,CS
+Amit Sharma,Wednesday,Web Development,3:00-4:00,CS
+Amit Sharma,Thursday,Algorithms,9:00-10:00,CS
+Amit Sharma,Thursday,Artificial Intelligence,10:00-11:00,CS
+Amit Sharma,Thursday,Machine Learning,11:00-12:00,CS
+Amit Sharma,Thursday,Cyber Security,12:00-1:00,CS
+Amit Sharma,Thursday,Computer Graphics,2:00-3:00,CS
+Amit Sharma,Thursday,Web Development,3:00-4:00,CS
+Amit Sharma,Friday,Algorithms,9:00-10:00,CS
+Amit Sharma,Friday,Artificial Intelligence,10:00-11:00,CS
+Amit Sharma,Friday,Machine Learning,11:00-12:00,CS
+Amit Sharma,Friday,Cyber Security,12:00-1:00,CS
+Amit Sharma,Friday,Computer Graphics,2:00-3:00,CS
+Amit Sharma,Friday,Web Development,3:00-4:00,CS
+Amit Sharma,Saturday,Algorithms,9:00-10:00,CS
+Amit Sharma,Saturday,Artificial Intelligence,10:00-11:00,CS
+Amit Sharma,Saturday,Machine Learning,11:00-12:00,CS
+Amit Sharma,Saturday,Cyber Security,12:00-1:00,CS
+Amit Sharma,Saturday,Computer Graphics,2:00-3:00,CS
+Amit Sharma,Saturday,Web Development,3:00-4:00,CS
+Pooja Singh,Monday,Algorithms,9:00-10:00,CS
+Pooja Singh,Monday,Artificial Intelligence,10:00-11:00,CS
+Pooja Singh,Monday,Machine Learning,11:00-12:00,CS
+Pooja Singh,Monday,Cyber Security,12:00-1:00,CS
+Pooja Singh,Monday,Computer Graphics,2:00-3:00,CS
+Pooja Singh,Monday,Web Development,3:00-4:00,CS
+Pooja Singh,Tuesday,Algorithms,9:00-10:00,CS
+Pooja Singh,Tuesday,Artificial Intelligence,10:00-11:00,CS
+Pooja Singh,Tuesday,Machine Learning,11:00-12:00,CS
+Pooja Singh,Tuesday,Cyber Security,12:00-1:00,CS
+Pooja Singh,Tuesday,Computer Graphics,2:00-3:00,CS
+Pooja Singh,Tuesday,Web Development,3:00-4:00,CS
+Pooja Singh,Wednesday,Algorithms,9:00-10:00,CS
+Pooja Singh,Wednesday,Artificial Intelligence,10:00-11:00,CS
+Pooja Singh,Wednesday,Machine Learning,11:00-12:00,CS
+Pooja Singh,Wednesday,Cyber Security,12:00-1:00,CS
+Pooja Singh,Wednesday,Computer Graphics,2:00-3:00,CS
+Pooja Singh,Wednesday,Web Development,3:00-4:00,CS
+Pooja Singh,Thursday,Algorithms,9:00-10:00,CS
+Pooja Singh,Thursday,Artificial Intelligence,10:00-11:00,CS
+Pooja Singh,Thursday,Machine Learning,11:00-12:00,CS
+Pooja Singh,Thursday,Cyber Security,12:00-1:00,CS
+Pooja Singh,Thursday,Computer Graphics,2:00-3:00,CS
+Pooja Singh,Thursday,Web Development,3:00-4:00,CS
+Pooja Singh,Friday,Algorithms,9:00-10:00,CS
+Pooja Singh,Friday,Artificial Intelligence,10:00-11:00,CS
+Pooja Singh,Friday,Machine Learning,11:00-12:00,CS
+Pooja Singh,Friday,Cyber Security,12:00-1:00,CS
+Pooja Singh,Friday,Computer Graphics,2:00-3:00,CS
+Pooja Singh,Friday,Web Development,3:00-4:00,CS
+Pooja Singh,Saturday,Algorithms,9:00-10:00,CS
+Pooja Singh,Saturday,Artificial Intelligence,10:00-11:00,CS
+Pooja Singh,Saturday,Machine Learning,11:00-12:00,CS
+Pooja Singh,Saturday,Cyber Security,12:00-1:00,CS
+Pooja Singh,Saturday,Computer Graphics,2:00-3:00,CS
+Pooja Singh,Saturday,Web Development,3:00-4:00,CS
+Rahul Mehta,Monday,Algorithms,9:00-10:00,CS
+Rahul Mehta,Monday,Artificial Intelligence,10:00-11:00,CS
+Rahul Mehta,Monday,Machine Learning,11:00-12:00,CS
+Rahul Mehta,Monday,Cyber Security,12:00-1:00,CS
+Rahul Mehta,Monday,Computer Graphics,2:00-3:00,CS
+Rahul Mehta,Monday,Web Development,3:00-4:00,CS
+Rahul Mehta,Tuesday,Algorithms,9:00-10:00,CS
+Rahul Mehta,Tuesday,Artificial Intelligence,10:00-11:00,CS
+Rahul Mehta,Tuesday,Machine Learning,11:00-12:00,CS
+Rahul Mehta,Tuesday,Cyber Security,12:00-1:00,CS
+Rahul Mehta,Tuesday,Computer Graphics,2:00-3:00,CS
+Rahul Mehta,Tuesday,Web Development,3:00-4:00,CS
+Rahul Mehta,Wednesday,Algorithms,9:00-10:00,CS
+Rahul Mehta,Wednesday,Artificial Intelligence,10:00-11:00,CS
+Rahul Mehta,Wednesday,Machine Learning,11:00-12:00,CS
+Rahul Mehta,Wednesday,Cyber Security,12:00-1:00,CS
+Rahul Mehta,Wednesday,Computer Graphics,2:00-3:00,CS
+Rahul Mehta,Wednesday,Web Development,3:00-4:00,CS
+Rahul Mehta,Thursday,Algorithms,9:00-10:00,CS
+Rahul Mehta,Thursday,Artificial Intelligence,10:00-11:00,CS
+Rahul Mehta,Thursday,Machine Learning,11:00-12:00,CS
+Rahul Mehta,Thursday,Cyber Security,12:00-1:00,CS
+Rahul Mehta,Thursday,Computer Graphics,2:00-3:00,CS
+Rahul Mehta,Thursday,Web Development,3:00-4:00,CS
+Rahul Mehta,Friday,Algorithms,9:00-10:00,CS
+Rahul Mehta,Friday,Artificial Intelligence,10:00-11:00,CS
+Rahul Mehta,Friday,Machine Learning,11:00-12:00,CS
+Rahul Mehta,Friday,Cyber Security,12:00-1:00,CS
+Rahul Mehta,Friday,Computer Graphics,2:00-3:00,CS
+Rahul Mehta,Friday,Web Development,3:00-4:00,CS
+Rahul Mehta,Saturday,Algorithms,9:00-10:00,CS
+Rahul Mehta,Saturday,Artificial Intelligence,10:00-11:00,CS
+Rahul Mehta,Saturday,Machine Learning,11:00-12:00,CS
+Rahul Mehta,Saturday,Cyber Security,12:00-1:00,CS
+Rahul Mehta,Saturday,Computer Graphics,2:00-3:00,CS
+Rahul Mehta,Saturday,Web Development,3:00-4:00,CS
+Sunita Yadav,Monday,Algorithms,9:00-10:00,CS
+Sunita Yadav,Monday,Artificial Intelligence,10:00-11:00,CS
+Sunita Yadav,Monday,Machine Learning,11:00-12:00,CS
+Sunita Yadav,Monday,Cyber Security,12:00-1:00,CS
+Sunita Yadav,Monday,Computer Graphics,2:00-3:00,CS
+Sunita Yadav,Monday,Web Development,3:00-4:00,CS
+Sunita Yadav,Tuesday,Algorithms,9:00-10:00,CS
+Sunita Yadav,Tuesday,Artificial Intelligence,10:00-11:00,CS
+Sunita Yadav,Tuesday,Machine Learning,11:00-12:00,CS
+Sunita Yadav,Tuesday,Cyber Security,12:00-1:00,CS
+Sunita Yadav,Tuesday,Computer Graphics,2:00-3:00,CS
+Sunita Yadav,Tuesday,Web Development,3:00-4:00,CS
+Sunita Yadav,Wednesday,Algorithms,9:00-10:00,CS
+Sunita Yadav,Wednesday,Artificial Intelligence,10:00-11:00,CS
+Sunita Yadav,Wednesday,Machine Learning,11:00-12:00,CS
+Sunita Yadav,Wednesday,Cyber Security,12:00-1:00,CS
+Sunita Yadav,Wednesday,Computer Graphics,2:00-3:00,CS
+Sunita Yadav,Wednesday,Web Development,3:00-4:00,CS
+Sunita Yadav,Thursday,Algorithms,9:00-10:00,CS
+Sunita Yadav,Thursday,Artificial Intelligence,10:00-11:00,CS
+Sunita Yadav,Thursday,Machine Learning,11:00-12:00,CS
+Sunita Yadav,Thursday,Cyber Security,12:00-1:00,CS
+Sunita Yadav,Thursday,Computer Graphics,2:00-3:00,CS
+Sunita Yadav,Thursday,Web Development,3:00-4:00,CS
+Sunita Yadav,Friday,Algorithms,9:00-10:00,CS
+Sunita Yadav,Friday,Artificial Intelligence,10:00-11:00,CS
+Sunita Yadav,Friday,Machine Learning,11:00-12:00,CS
+Sunita Yadav,Friday,Cyber Security,12:00-1:00,CS
+Sunita Yadav,Friday,Computer Graphics,2:00-3:00,CS
+Sunita Yadav,Friday,Web Development,3:00-4:00,CS
+Sunita Yadav,Saturday,Algorithms,9:00-10:00,CS
+Sunita Yadav,Saturday,Artificial Intelligence,10:00-11:00,CS
+Sunita Yadav,Saturday,Machine Learning,11:00-12:00,CS
+Sunita Yadav,Saturday,Cyber Security,12:00-1:00,CS
+Sunita Yadav,Saturday,Computer Graphics,2:00-3:00,CS
+Sunita Yadav,Saturday,Web Development,3:00-4:00,CS
+Karan Patel,Monday,Algorithms,9:00-10:00,CS
+Karan Patel,Monday,Artificial Intelligence,10:00-11:00,CS
+Karan Patel,Monday,Machine Learning,11:00-12:00,CS
+Karan Patel,Monday,Cyber Security,12:00-1:00,CS
+Karan Patel,Monday,Computer Graphics,2:00-3:00,CS
+Karan Patel,Monday,Web Development,3:00-4:00,CS
+Karan Patel,Tuesday,Algorithms,9:00-10:00,CS
+Karan Patel,Tuesday,Artificial Intelligence,10:00-11:00,CS
+Karan Patel,Tuesday,Machine Learning,11:00-12:00,CS
+Karan Patel,Tuesday,Cyber Security,12:00-1:00,CS
+Karan Patel,Tuesday,Computer Graphics,2:00-3:00,CS
+Karan Patel,Tuesday,Web Development,3:00-4:00,CS
+Karan Patel,Wednesday,Algorithms,9:00-10:00,CS
+Karan Patel,Wednesday,Artificial Intelligence,10:00-11:00,CS
+Karan Patel,Wednesday,Machine Learning,11:00-12:00,CS
+Karan Patel,Wednesday,Cyber Security,12:00-1:00,CS
+Karan Patel,Wednesday,Computer Graphics,2:00-3:00,CS
+Karan Patel,Wednesday,Web Development,3:00-4:00,CS
+Karan Patel,Thursday,Algorithms,9:00-10:00,CS
+Karan Patel,Thursday,Artificial Intelligence,10:00-11:00,CS
+Karan Patel,Thursday,Machine Learning,11:00-12:00,CS
+Karan Patel,Thursday,Cyber Security,12:00-1:00,CS
+Karan Patel,Thursday,Computer Graphics,2:00-3:00,CS
+Karan Patel,Thursday,Web Development,3:00-4:00,CS
+Karan Patel,Friday,Algorithms,9:00-10:00,CS
+Karan Patel,Friday,Artificial Intelligence,10:00-11:00,CS
+Karan Patel,Friday,Machine Learning,11:00-12:00,CS
+Karan Patel,Friday,Cyber Security,12:00-1:00,CS
+Karan Patel,Friday,Computer Graphics,2:00-3:00,CS
+Karan Patel,Friday,Web Development,3:00-4:00,CS
+Karan Patel,Saturday,Algorithms,9:00-10:00,CS
+Karan Patel,Saturday,Artificial Intelligence,10:00-11:00,CS
+Karan Patel,Saturday,Machine Learning,11:00-12:00,CS
+Karan Patel,Saturday,Cyber Security,12:00-1:00,CS
+Karan Patel,Saturday,Computer Graphics,2:00-3:00,CS
+Karan Patel,Saturday,Web Development,3:00-4:00,CS
+Meena Das,Monday,Algorithms,9:00-10:00,CS
+Meena Das,Monday,Artificial Intelligence,10:00-11:00,CS
+Meena Das,Monday,Machine Learning,11:00-12:00,CS
+Meena Das,Monday,Cyber Security,12:00-1:00,CS
+Meena Das,Monday,Computer Graphics,2:00-3:00,CS
+Meena Das,Monday,Web Development,3:00-4:00,CS
+Meena Das,Tuesday,Algorithms,9:00-10:00,CS
+Meena Das,Tuesday,Artificial Intelligence,10:00-11:00,CS
+Meena Das,Tuesday,Machine Learning,11:00-12:00,CS
+Meena Das,Tuesday,Cyber Security,12:00-1:00,CS
+Meena Das,Tuesday,Computer Graphics,2:00-3:00,CS
+Meena Das,Tuesday,Web Development,3:00-4:00,CS
+Meena Das,Wednesday,Algorithms,9:00-10:00,CS
+Meena Das,Wednesday,Artificial Intelligence,10:00-11:00,CS
+Meena Das,Wednesday,Machine Learning,11:00-12:00,CS
+Meena Das,Wednesday,Cyber Security,12:00-1:00,CS
+Meena Das,Wednesday,Computer Graphics,2:00-3:00,CS
+Meena Das,Wednesday,Web Development,3:00-4:00,CS
+Meena Das,Thursday,Algorithms,9:00-10:00,CS
+Meena Das,Thursday,Artificial Intelligence,10:00-11:00,CS
+Meena Das,Thursday,Machine Learning,11:00-12:00,CS
+Meena Das,Thursday,Cyber Security,12:00-1:00,CS
+Meena Das,Thursday,Computer Graphics,2:00-3:00,CS
+Meena Das,Thursday,Web Development,3:00-4:00,CS
+Meena Das,Friday,Algorithms,9:00-10:00,CS
+Meena Das,Friday,Artificial Intelligence,10:00-11:00,CS
+Meena Das,Friday,Machine Learning,11:00-12:00,CS
+Meena Das,Friday,Cyber Security,12:00-1:00,CS
+Meena Das,Friday,Computer Graphics,2:00-3:00,CS
+Meena Das,Friday,Web Development,3:00-4:00,CS
+Meena Das,Saturday,Algorithms,9:00-10:00,CS
+Meena Das,Saturday,Artificial Intelligence,10:00-11:00,CS
+Meena Das,Saturday,Machine Learning,11:00-12:00,CS
+Meena Das,Saturday,Cyber Security,12:00-1:00,CS
+Meena Das,Saturday,Computer Graphics,2:00-3:00,CS
+Meena Das,Saturday,Web Development,3:00-4:00,CS
+Ravi Verma,Monday,Algorithms,9:00-10:00,CS
+Ravi Verma,Monday,Artificial Intelligence,10:00-11:00,CS
+Ravi Verma,Monday,Machine Learning,11:00-12:00,CS
+Ravi Verma,Monday,Cyber Security,12:00-1:00,CS
+Ravi Verma,Monday,Computer Graphics,2:00-3:00,CS
+Ravi Verma,Monday,Web Development,3:00-4:00,CS
+Ravi Verma,Tuesday,Algorithms,9:00-10:00,CS
+Ravi Verma,Tuesday,Artificial Intelligence,10:00-11:00,CS
+Ravi Verma,Tuesday,Machine Learning,11:00-12:00,CS
+Ravi Verma,Tuesday,Cyber Security,12:00-1:00,CS
+Ravi Verma,Tuesday,Computer Graphics,2:00-3:00,CS
+Ravi Verma,Tuesday,Web Development,3:00-4:00,CS
+Ravi Verma,Wednesday,Algorithms,9:00-10:00,CS
+Ravi Verma,Wednesday,Artificial Intelligence,10:00-11:00,CS
+Ravi Verma,Wednesday,Machine Learning,11:00-12:00,CS
+Ravi Verma,Wednesday,Cyber Security,12:00-1:00,CS
+Ravi Verma,Wednesday,Computer Graphics,2:00-3:00,CS
+Ravi Verma,Wednesday,Web Development,3:00-4:00,CS
+Ravi Verma,Thursday,Algorithms,9:00-10:00,CS
+Ravi Verma,Thursday,Artificial Intelligence,10:00-11:00,CS
+Ravi Verma,Thursday,Machine Learning,11:00-12:00,CS
+Ravi Verma,Thursday,Cyber Security,12:00-1:00,CS
+Ravi Verma,Thursday,Computer Graphics,2:00-3:00,CS
+Ravi Verma,Thursday,Web Development,3:00-4:00,CS
+Ravi Verma,Friday,Algorithms,9:00-10:00,CS
+Ravi Verma,Friday,Artificial Intelligence,10:00-11:00,CS
+Ravi Verma,Friday,Machine Learning,11:00-12:00,CS
+Ravi Verma,Friday,Cyber Security,12:00-1:00,CS
+Ravi Verma,Friday,Computer Graphics,2:00-3:00,CS
+Ravi Verma,Friday,Web Development,3:00-4:00,CS
+Ravi Verma,Saturday,Algorithms,9:00-10:00,CS
+Ravi Verma,Saturday,Artificial Intelligence,10:00-11:00,CS
+Ravi Verma,Saturday,Machine Learning,11:00-12:00,CS
+Ravi Verma,Saturday,Cyber Security,12:00-1:00,CS
+Ravi Verma,Saturday,Computer Graphics,2:00-3:00,CS
+Ravi Verma,Saturday,Web Development,3:00-4:00,CS

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheduler</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Scheduler</h1>
+    <div class="upload-section">
+      <input type="file" id="fileInput" />
+      <button id="uploadButton">Upload</button>
+    </div>
+    <div id="generateSection">
+      <button id="generateButton">Generate</button>
+      <div class="download-options">
+        <select id="fileType">
+          <option value="">--Select Type--</option>
+          <option value="csv">Excel</option>
+          <option value="docx">Word</option>
+          <option value="pdf">PDF</option>
+        </select>
+        <button id="downloadButton">Download</button>
+      </div>
+    </div>
+        <div class="advanced-section">
+      <div class="advanced-toggle">
+        <span id="toggleAdvanced">Advanced ></span>
+      </div>
+      <div id="advancedOptions" class="hidden">
+        <label for="department">Department:</label>
+        <select id="departmentDropdown">
+            <option value="">--Select Department--</option>
+        </select>
+        <label for="class">Class:</label>
+        <select id="classDropdown">
+            <option value="">--Select Class--</option>
+        </select>
+        <label for="teacher">Teacher:</label>
+        <select id="teacherDropdown">
+            <option value="">--Select Teacher--</option>
+        </select>
+        <button id="viewButton">View</button>
+        <div class="advanced-download-options">
+          <select id="advancedFileType">
+            <option value="">--Select Type--</option>
+            <option value="excel">Excel</option>
+            <option value="word">Word</option>
+            <option value="pdf">PDF</option>
+          </select>
+          <button id="advancedDownloadButton">Download</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

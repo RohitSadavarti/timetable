@@ -1,0 +1,35 @@
+Subject_ID,Subject_Name,Is_Common,Weekly_Lectures
+S1,Accounting,Yes,4
+S2,DBMS,No,4
+S3,OS,No,4
+S4,Programming Fundamentals,Yes,4
+S5,Web Technologies,No,4
+S6,Software Engineering,No,4
+S7,Mathematics I,Yes,4
+S8,Data Structures,No,4
+S9,Computer Networks,No,4
+S10,Digital Logic,Yes,4
+S11,Mobile Computing,No,4
+S12,Artificial Intelligence,No,4
+S13,Physics,Yes,4
+S14,Object Oriented Programming,No,4
+S15,Machine Learning,No,4
+S16,Computer Graphics,Yes,3
+S17,Information Security,No,3
+S18,Cloud Computing,No,4
+S19,English Communication,Yes,4
+S20,Algorithms Analysis,No,4
+S21,Distributed Systems,No,4
+S22,Statistics,Yes,3
+S23,Human Computer Interaction,No,3
+S24,Big Data Analytics,No,4
+S25,Chemistry,Yes,4
+S26,Software Testing,No,4
+S27,Project Management,No,3
+S28,Environmental Studies,Yes,3
+S29,IoT Systems,No,4
+S30,Blockchain Technology,No,3
+S31,Mathematics II,Yes,4
+S32,Computer Architecture,No,4
+S34,Programming in C,Yes,4
+S35,Compiler Design,No,4

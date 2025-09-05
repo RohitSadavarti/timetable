@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timetable Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Upload Excel File</h2>
+        <form id="file-upload-form">
+            <div class="form-group">
+                <label for="excelFile">Upload:</label>
+                <input type="file" id="excelFile" name="excelFile" accept=".xls,.xlsx,.csv" required>
+                <button type="submit">Submit</button>
+            </div>
+
+        </form>
+
+        <form id="selection-form" style="display: none;">
+            <div class="form-group">
+                <label for="department">Select Department:</label>
+                <select id="department" name="department" required>
+                    <option value="">--Select Department--</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="class">Select Class:</label>
+                <select id="class" name="class" required>
+                    <option value="">--Select Class--</option>
+                </select>
+            </div>
+
+            <button type="button" id="getButton">Generate Timetable</button>
+            <div class="form-group">
+                <label for="downloadEntireTimetable">Download Entire Timetable:</label>
+                <button type="button" id="downloadEntireTimetable" class="btn">Download All Timetables</button>
+            </div>
+        </form>
+
+        <div class="form-group">
+            <label for="format">Select Format:</label>
+            <select id="format" name="format">
+                <option value="">Select Format</option>
+                <option value="pdf">PDF</option>
+                <option value="word">Word</option>
+                <option value="csv">Excel</option>
+            </select>
+            <button type="button" id="downloadButton">Download</button>
+        </div>
+
+        <!-- Placeholder for the generated schedule -->
+        <div id="schedule-container"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

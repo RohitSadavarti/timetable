@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 500vh;
+    background-color: #f4f4f9;
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.container {
+    background: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 800px; /* Reduced width for better centering */
+    margin-bottom: 40px; /* Add some space below the form */
+    margin-top: 50px;
+}
+
+.container h2 {
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+label {
+    margin-right: 10px;
+    font-weight: bold;
+    color: #555;
+}
+
+input[type="file"], select, button {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+input[type="file"] {
+    flex-grow: 1;
+    margin-right: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Schedule container for the generated timetable info */
+#schedule-container {
+    width: 100%;
+    margin-top: 40px; /* Add some space above the timetable */
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow-x: auto; /* Allow horizontal scrolling if the table is wide */
+}
+
+#schedule-container h3 {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Timetable Table Container centered below the dropdown container */
+#timetable-container {
+    width: 80%; /* Width adjusted for better centering */
+    margin: 40px auto 0; /* Center it with auto margin */
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: none; /* Hidden by default */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f4f4f9;
+}
